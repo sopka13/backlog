@@ -1,0 +1,10 @@
+LogReader:
+	1. Read config_file from json
+		1.1. Create JSON file
+	2. Create socket
+	3. Start monitoring
+
+SBT:
+	1. Search book
+
+
